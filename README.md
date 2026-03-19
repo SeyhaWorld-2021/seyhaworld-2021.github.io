@@ -1,10 +1,10 @@
-# Soeurm Seyha | Creative Technologist Portfolio
+# Soeurm Seyha
 
 A cold, calm, anime-inspired portfolio website. Minimal. Powerful. Unforgettable.
 
 ---
 
-## 🧊 Design Philosophy
+## Design Philosophy
 
 Inspired by anime aesthetics (Vinland Saga vibe) – calm, cold, intelligent. The design prioritizes:
 - **Clarity** - Clean layouts, easy to read
@@ -14,7 +14,7 @@ Inspired by anime aesthetics (Vinland Saga vibe) – calm, cold, intelligent. Th
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 portfolio/
@@ -38,7 +38,7 @@ portfolio/
 
 ---
 
-## 🎨 Color Palette
+##  Color Palette
 
 | Color | Hex | Usage |
 |-------|-----|-------|
@@ -51,7 +51,7 @@ portfolio/
 
 ---
 
-## ✏️ How to Update
+##  How to Update
 
 ### Adding Portfolio Projects
 
@@ -116,7 +116,7 @@ portfolio/
 - Update email in `.contact-link`
 - Update social links in `.contact-social`
 
-### 📧 Activating the Contact Form
+###  Activating the Contact Form
 
 To receive real emails, you need to connect the form:
 
@@ -151,7 +151,7 @@ Add CSS:
 
 ---
 
-## � Tools Displayed
+##  Tools Displayed
 
 Edit the `.tools-grid` section:
 
@@ -164,7 +164,7 @@ Edit the `.tools-grid` section:
 
 ---
 
-## 🚀 Deploy
+##  Deploy
 
 ### Netlify (Recommended)
 1. Go to [netlify.com](https://netlify.com)
@@ -183,7 +183,7 @@ npx vercel
 
 ---
 
-## ⚡ Performance
+##  Performance
 
 - Optimized CSS animations
 - Lazy loading ready
@@ -192,7 +192,7 @@ npx vercel
 
 ---
 
-## 🎬 Animations
+##  Animations
 
 All animations are slow and dramatic (anime-style):
 - Preloader: 3s
@@ -205,7 +205,7 @@ To adjust timing, edit `--duration-*` variables in CSS.
 
 ---
 
-## 📱 Browser Support
+##  Browser Support
 
 - Chrome ✓
 - Firefox ✓
@@ -215,7 +215,7 @@ To adjust timing, edit `--duration-*` variables in CSS.
 
 ---
 
-## 🧊 Final Note
+##  Final Note
 
 > "Simple to navigate. Hard to forget."
 
